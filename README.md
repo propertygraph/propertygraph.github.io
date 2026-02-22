@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Graph Query Language — Supported Databases
 description: A comprehensive compatibility matrix showing which graph databases support GSQL, GQL, Cypher, Gremlin, and PGQ/SQL.
 ---
