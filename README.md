@@ -1,18 +1,4 @@
----
-layout: default
-title: Graph Query Language — Supported Databases
-description: A comprehensive compatibility matrix showing which graph databases support GSQL, GQL, Cypher, Gremlin, and PGQ/SQL.
-nav_order: 1
----
 
-
-
-## Supported Databases Matrix
-
-> **Legend:**
-> - ✅ Native / Full support
-> - 🔄 Partial / In progress
-> - ✗ Not supported
 
 | Database | GSQL | GQL | Cypher | Gremlin | PGQ/SQL |
 |---|:---:|:---:|:---:|:---:|:---:|
