@@ -1,6 +1,6 @@
 
 
-| Database | GSQL | GQL | Cypher | Gremlin | PGQ/SQL |
+| Database | GSQL | [GQL](https://gql.ch) | Cypher | Gremlin | PGQ/SQL |
 |---|:---:|:---:|:---:|:---:|:---:|
 | **TigerGraph** | ✅ | 🔄 | ✗ | ✗ | ✗ |
 | **Neo4j** | ✗ | 🔄 | ✅ | ✗ | ✗ |
