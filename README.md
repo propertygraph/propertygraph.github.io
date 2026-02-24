@@ -16,7 +16,8 @@
 | **AgensGraph** | ✗ | ✗ | ✅ | ✗ | ✗ |
 | **TinkerGraph** _(in-memory reference impl.)_ | ✗ | ✗ | ✗ | ✅ | ✗ |
 | **SQL Server** | ✗ | ✗ | ✗ | ✗ | 🔄 |
-| **Google Spanner** | ✗ | ✗ | ✗ | ✗ | 🔄 |
+| **Google Spanner** | ✗ | ✅ | ✗ | ✗ | ✗ |
+| **Google BigQuery** | ✗ | 🔄 | ✗ | ✗ | ✗ |
 | **RedisGraph** _(EOL 2023)_ | ✗ | ✗ | ✅ | ✗ | ✗ |
 | **Ultipa** _(native: UQL)_ | ✗ | ✅ | ✗ | ✗ | ✗ |
 | **PuppyGraph** | ✗ | ✗ | ✅ | ✅ | ✗ |
