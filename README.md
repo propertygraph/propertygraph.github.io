@@ -26,5 +26,4 @@
 | **NebulaGraph** _(native: nGQL)_ | ✗ | ✗ | 🔄 | ✗ | ✗ |
 | **Ladybug DB** | ✗ | ✗ | ✅ | ✗ | ✗ |
 | **Traverse DB** | ✗ | ✅ | ✅ | ✗ | ✗ |
-
 ---
