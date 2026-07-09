@@ -25,5 +25,6 @@
 | **Microsoft Fabric Graph** _(public preview)_ | ✗ | ✅ | ✗ | ✗ | ✗ |
 | **NebulaGraph** _(native: nGQL)_ | ✗ | ✗ | 🔄 | ✗ | ✗ |
 | **Ladybug DB** | ✗ | ✗ | ✅ | ✗ | ✗ |
-
+| **Ladybug DB** | ✗ | ✗ | ✅ | ✗ | ✗ |
+| **Traverse** | ✗ | ✅ | ✅ | ✗ | ✗ |
 ---
